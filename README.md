@@ -1,7 +1,10 @@
           REQUERIMIENTOS DEL CÓDIGO:
  • Tener instalada la librería “pandas” que sea compatible con la versión de Python del usuario.
+ 
  • Ejecutar en la terminal el comando: pip install pandas en caso de no tener la librería.
+ 
  • Recomendación: Trabajar en un entorno virtual la librería, para esto ejecutar los comandos “python-m venv venv” y “venv\Scripts\activate”
+ 
  • Encaso de problemas: https://www.youtube.com/watch?v=j2PIt_PY4sg
 
           COASAS A TENER EN CUENTA:
